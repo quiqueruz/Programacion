@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+    <question name="Capital España" base_score="1">
+        <statement>
+            ¿Cuál es la capital de España?
+        </statement>
+        <options>
+            <option weight="1">
+                Madrid
+            </option>
+            <option weight="-0.25">
+                Barcelona
+            </option>
+            <option weight="-0.25">
+                Sevilla
+            </option>
+            <option weight="-0.25">
+                Valencia
+            </option>
+        </options>
+    </question>
+    <question name="Río más largo" base_score="1">
+        <statement>
+            ¿Cuál es el río más largo del mundo?
+        </statement>
+        <options>
+            <option weight="-0.25">
+                Amazonas
+            </option>
+            <option weight="1">
+                Nilo
+            </option>
+            <option weight="-0.25">
+                Yangtsé
+            </option>
+            <option weight="-0.25">
+                Misisipi
+            </option>
+        </options>
+    </question>
+    <question name="Mona Lisa" base_score="1">
+        <statement>
+            Quién pintó La Mona Lisa?
+        </statement>
+        <options>
+            <option weight="1">
+                Leonardo da Vinci
+            </option>
+            <option weight="-0.25">
+                Miguel Ángel
+            </option>
+            <option weight="-0.25">
+                Rafael
+            </option>
+            <option weight="-0.25">
+                Van Gogh
+            </option>
+        </options>
+    </question>
+    <question name="República" base_score="1">
+        <statement>
+            ¿En qué año se proclamó la Segunda República española?
+        </statement>
+        <options>
+            <option weight="1">
+                1931
+            </option>
+            <option weight="-0.25">
+                1936
+            </option>
+            <option weight="-0.25">
+                1938
+            </option>
+            <option weight="-0.25">
+                1981
+            </option>
+        </options>
+    </question>
+    <question name="África" base_score="1">
+        <statement>
+            ¿Qué país africano es conocido como la 'perla del África'?
+        </statement>
+        <options>
+            <option weight="-0.25">
+                Tanzania
+            </option>
+            <option weight="-0.25">
+                Kenia
+            </option>
+            <option weight="1">
+                Uganda
+            </option>
+            <option weight="-0.25">
+                Etiopía
+            </option>
+        </options>
+    </question>
+</test>

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Capital Espa\u00f1a",
+    "base_score": 1,
+    "statement": "Capital de Espa\u00f1a",
+    "options": [
+      {
+        "option": "Madrid",
+        "weight": "1"
+      },
+      {
+        "option": "C\u00f3rdoba",
+        "weight": "-0.25"
+      },
+      {
+        "option": "Sevilla",
+        "weight": "-0.25"
+      },
+      {
+        "option": "Barcelona",
+        "weight": "-0.25"
+      }
+    ]
+  }
+]

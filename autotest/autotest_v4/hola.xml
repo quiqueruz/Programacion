@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<test>
+  <question name="capital españa" base_score="1">
+    <statement>Capital de España<options>
+        <option weight="1">Madrid</option>
+        <option weight="-0.25">Barcelona</option>
+        <option weight="-0.25">Valencia</option>
+        <option weight="-0.25">Sevilla</option>
+      </options>
+    </statement>
+  </question>
+  <question name="América" base_score="1">
+    <statement>Cuándo fue el descubrimiento de América<options>
+        <option weight="1">1492</option>
+        <option weight="-0.25">1942</option>
+        <option weight="-0.15">1628</option>
+        <option weight="-0.25">1836</option>
+      </options>
+    </statement>
+  </question>
+</test>

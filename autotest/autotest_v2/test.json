@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Capital España",
+    "statement":"¿Cuál es la capital de España?\nElige una de las siguientes opciones...",
+    "options":[["Madrid",1], ["Barcelona",-0.25],["Sevilla",-0.25], ["Valencia",-0.25]],
+    "points":1
+  },
+  {
+    "name":"Río más largo",
+    "statement":"¿Cuál es el río más largo del mundo?\nElige una de las siguientes opciones...",
+    "options":[["Amazonas",-0.25], ["Nilo",1],["Yangtsé",-0.25], ["Misisipi",-0.25]],
+    "points":1
+  },
+  {
+    "name":"Mona Lisa",
+    "statement":"Quién pintó La Mona Lisa?\nElige una de las siguientes opciones...",
+    "options":[["Leonardo da Vinci",1],["Miguel Ángel",-0.25],["Rafael",-0.25],["Van Gogh",-0.25]],
+    "points":1
+  },
+  {
+    "name":"República",
+    "statement":"¿En qué año se proclamó la Segunda República española?\nElige una de las siguientes opciones...",
+    "options":[["1931",1],["1936",-0.25],["1978",-0.25],["1981",-0.25]],
+    "points":1
+  },
+  {
+    "name":"África",
+    "statement":"¿Qué país africano es conocido como la 'perla del África'?\nElige una de las siguientes opciones...",
+    "options":[["Tanzania",-0.25],["Kenia",-0.25],["Uganda",1],["Etiopía",-0.25]],
+    "points":1
+  }
+]
